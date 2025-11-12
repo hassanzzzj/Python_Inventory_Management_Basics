@@ -20,6 +20,8 @@ inventory = {
     "Headphones": 30,
     "Smartwatch": 20
 }
+```
+
 The following operations are performed in the script:
 
 Stock Update:
