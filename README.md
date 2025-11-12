@@ -62,8 +62,5 @@ Stock level of Camera: Out of Stock
     python inventory_script.py
     ```
 
------
-
-```
 
 
